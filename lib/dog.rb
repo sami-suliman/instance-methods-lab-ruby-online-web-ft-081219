@@ -1,2 +1,0 @@
-calss Dog 
-end
