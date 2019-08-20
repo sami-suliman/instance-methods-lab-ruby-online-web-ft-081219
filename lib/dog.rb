@@ -7,7 +7,8 @@ class Dog
   end 
 end
 
-
+class Person
+end 
 
 #fido = Dog.new
 #fido.bark
